@@ -1,6 +1,7 @@
 ## Hola 👋
 
 Me interesa aprender a programar
+<br>
 Conozco de lenguajes de programación Java, C++, C, Python (no se usar ninguno)
 Y de entornos Visual Studio Code y Eclipse
 <!--
