@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hola 👋
 
+Me interesa aprender a programar
+Conozco de lenguajes de programación Java, C++, C, Python (no se usar ninguno)
+Y de entornos Visual Studio Code y Eclipse
 <!--
 **Fernanditokitkat66/fernanditokitkat66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
